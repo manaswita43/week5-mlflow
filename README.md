@@ -77,7 +77,7 @@ http://<external-ip>:8100
 
 ## Project Structure
 ```
-mlflow-assignment/
+week5-mlflow/
 │
 ├── data/
 │   └── iris.csv
@@ -89,3 +89,4 @@ mlflow-assignment/
 ├── README.md
 └── .gitignore
 ```
+
